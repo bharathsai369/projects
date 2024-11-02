@@ -1,1 +1,1 @@
-this folder contains the dice roller program/
+this folder contains the dice roller program.
